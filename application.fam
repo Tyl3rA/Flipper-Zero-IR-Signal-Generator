@@ -8,4 +8,8 @@ App(
     order=20,
     fap_icon="icon.png",
     fap_category="Infrared",
+    fap_author="Sacriphanius",
+    fap_version="1.0",
+    fap_description="Advanced IR Signal Generator with RF Spectrum and External IR Support",
+    fap_license="MIT",
 )

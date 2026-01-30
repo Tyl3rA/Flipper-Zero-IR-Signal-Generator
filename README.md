@@ -49,3 +49,6 @@ A professional-grade Infrared Signal Generator for Flipper Zero with an advanced
 
 ## 👨‍💻 Author
 Developed by **Sacriphanius**
+
+## ⚖️ License
+This project is licensed under the [MIT License](LICENSE).
